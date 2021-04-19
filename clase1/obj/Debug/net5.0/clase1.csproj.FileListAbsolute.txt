@@ -1,0 +1,16 @@
+/home/carlos/Documentos/Universidad/Programacion II/clase1/bin/Debug/net5.0/clase1
+/home/carlos/Documentos/Universidad/Programacion II/clase1/bin/Debug/net5.0/clase1.deps.json
+/home/carlos/Documentos/Universidad/Programacion II/clase1/bin/Debug/net5.0/clase1.runtimeconfig.json
+/home/carlos/Documentos/Universidad/Programacion II/clase1/bin/Debug/net5.0/clase1.runtimeconfig.dev.json
+/home/carlos/Documentos/Universidad/Programacion II/clase1/bin/Debug/net5.0/clase1.dll
+/home/carlos/Documentos/Universidad/Programacion II/clase1/bin/Debug/net5.0/ref/clase1.dll
+/home/carlos/Documentos/Universidad/Programacion II/clase1/bin/Debug/net5.0/clase1.pdb
+/home/carlos/Documentos/Universidad/Programacion II/clase1/obj/Debug/net5.0/clase1.csprojAssemblyReference.cache
+/home/carlos/Documentos/Universidad/Programacion II/clase1/obj/Debug/net5.0/clase1.GeneratedMSBuildEditorConfig.editorconfig
+/home/carlos/Documentos/Universidad/Programacion II/clase1/obj/Debug/net5.0/clase1.AssemblyInfoInputs.cache
+/home/carlos/Documentos/Universidad/Programacion II/clase1/obj/Debug/net5.0/clase1.AssemblyInfo.cs
+/home/carlos/Documentos/Universidad/Programacion II/clase1/obj/Debug/net5.0/clase1.csproj.CoreCompileInputs.cache
+/home/carlos/Documentos/Universidad/Programacion II/clase1/obj/Debug/net5.0/clase1.dll
+/home/carlos/Documentos/Universidad/Programacion II/clase1/obj/Debug/net5.0/ref/clase1.dll
+/home/carlos/Documentos/Universidad/Programacion II/clase1/obj/Debug/net5.0/clase1.pdb
+/home/carlos/Documentos/Universidad/Programacion II/clase1/obj/Debug/net5.0/clase1.genruntimeconfig.cache
